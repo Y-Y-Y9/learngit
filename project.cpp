@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	//11111
+	//22222
 	int a, b;
 	cin >> a >> b;
 	cout << a + b << endl;
